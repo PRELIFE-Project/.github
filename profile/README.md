@@ -1,6 +1,8 @@
 # PRELIFE Project
 
-{logo}
+# add logo image
+![logo_prelife](https://github.com/PRELIFE-Project/.github/blob/main/assets/images/prelife_photo_profile.png)
+
 
 ## Project mission
 

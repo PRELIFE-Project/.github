@@ -66,7 +66,7 @@ Below is a suggested baseline to keep the project coherent, maintainable, and in
 3. Submit pull requests or propose new modules/ideas.  
 4. Engage with the wider community—public outreach, educational modules, or collaborative modelling.
 
-{MAYBE ADD POINTS ABOUT CLONING/FORKING A REPO}
+{Note: MAYBE ADD POINTS ABOUT CLONING/FORKING A REPO}
 
 ---
 
@@ -79,5 +79,5 @@ Below is a suggested baseline to keep the project coherent, maintainable, and in
 ---
 ---
 
-***This README is a living document and may evolve as the PRELIFE program progresses.***
+***This README is a living document and may evolve as the PRELIFE project progresses.***
 
